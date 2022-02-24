@@ -1,6 +1,6 @@
 <div align="center">
   <H1>
-    Quasi-periodic time series clustering for human activity recognition
+    Clustering for human activity recognition
   </H1>
   Research paper<br><br>
    Valentina Smith
