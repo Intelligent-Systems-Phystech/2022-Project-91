@@ -1,23 +1,13 @@
 <div align="center">
   <H1>
-    Название исследуемой задачи
+    Quasi-periodic time series clustering for human activity recognition
   </H1>
-  Тип научной работы<br><br>
-  Имя Отчество Фамилия, Имя Отчество Фамилия
+  Research paper<br><br>
+   Valentina Smith
 </div><br>
 <div align="center">
-  Научный руководитель: степень Фамилия Имя Отчество <br>
-  Научный консультант(при наличии): степень Фамилия Имя Отчество
+  Supervisors: Andrii Hrabovyi, Vadim Strijov <br>
 </div>
 
 ## Аннотация
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
-
-## Публикации по теме исследования
-1. 
-
-## Выступления на конференциях по теме исследования
-1. 
-
-## Программные модули разработанные в рамках исследования
-1. 
+Initial paper analyses the periodic signals in the time series to recognize human activity by using a mobile accelerometer. Each point in the timeline corresponds to a segment of historical time series. This segments form a phase trajectory in phase space of human activity. The principal components of segments of the phase trajectory are treated as feature descriptions at the point in the timeline. The purpose of this work collect some new data, and try "довести до ума" original paper.
